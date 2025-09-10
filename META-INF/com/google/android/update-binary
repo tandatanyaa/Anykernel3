@@ -576,6 +576,6 @@ if [ "$(file_getprop anykernel.sh do.cleanup)" == 1 ]; then
   cleanup;
 fi;
 
-ui_print " " "Tobrut The Colmek is Finished, Rebbot System 🍌!";
+ui_print " " "installasi success is Finished, Rebbot System 🤙!";
 export PATH="$OLD_PATH";
 unset OLD_PATH OUTFD ZIPFILE;
